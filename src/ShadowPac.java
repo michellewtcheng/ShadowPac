@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * SWEN20003 Project 2B, Semester 1, 2023
  * This is the main class for the ShadowPac game
  *
- * @author Michelle Cheng, using Project 1 Solution code by Tharun Dharmawickrema & Stella Li
+ * @author Michelle Cheng, building on Project 1 Solution code by Tharun Dharmawickrema & Stella Li
  */
 public class ShadowPac extends AbstractGame  {
     private final static int WINDOW_WIDTH = 1024;

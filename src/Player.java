@@ -1,6 +1,6 @@
 import bagel.*;
 
-// much of the code is from the provided Project 1 Solutions by Tharun Dharmawickrema & Stella Li
+// code builds on provided Project 1 Solutions by Tharun Dharmawickrema & Stella Li
 
 /**
  * This is a class for the PacMan player

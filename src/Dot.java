@@ -2,7 +2,7 @@ import bagel.Image;
 import bagel.util.Point;
 import bagel.util.Rectangle;
 
-// base code is from the provided Project 1 Solutions by Tharun Dharmawickrema & Stella Li
+// code built on top of the provided Project 1 Solutions by Tharun Dharmawickrema & Stella Li
 
 /**
  * This is a class for the dot entities in the game
